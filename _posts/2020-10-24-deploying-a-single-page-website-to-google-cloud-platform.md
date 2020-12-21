@@ -44,11 +44,11 @@ Address: 35.186.248.145
 
 A few minutes later and the site is live
 
-![live site]({{ site.url }}assets/1-site.png)
+![live site](/assets/1-site.png)
 
 Notice the lock icon, indicating the site is secured using HTTPS
 
-![live site]({{ site.url }}assets/1-https.png)
+![live site](/assets/1-https.png)
 
 The documentation is clean and the process was smooth, before moving on I will create a simple HTML page from the markdown of this article and upload that in place of the _test page_. For the sake of completeness, here are the steps I followed to convert a markdown document to HTML using [jekyll](https://jekyllrb.com/docs/).
 
@@ -78,6 +78,6 @@ gcloud compute url-maps invalidate-cdn-cache danielholden-lb \
     --path "/*"
 ```
 
-![article 1]({{ site.url }}assets/1-article.png)
+![article 1](/assets/1-article.png)
 
 In the next article I will aim to automate the creation of the entire site.

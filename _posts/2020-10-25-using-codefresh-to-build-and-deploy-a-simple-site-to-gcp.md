@@ -6,7 +6,7 @@ title:  "Using Codefresh to build and deploy a simple site to GCP"
 ## Setting up Codefresh and GCP
 Codefresh is a CI/CD tool that allows you to automate the process of building and deploying, this article covers my experience in setting up Codefresh to build and deploy my blog. I followed [this](https://codefresh.io/howtos/deploying-applications-using-codefresh-google-cloud-platform-google-kubernetes-engine/) handy guide by Anna Baker to setup my Codefresh account and link it to my GCP account.  The steps are quite straightforward and the result was a dedicated Kubernetes cluster which Codefresh uses to run build and deploys.
 
-![K8 CF cluster]({{ site.url }}assets/2-k8-cf-cluster.png)
+![K8 CF cluster](/assets/2-k8-cf-cluster.png)
 
 The guide finishes with some pointers on how to get deploying, I decided to use the Codefresh UI since I have no idea what I'm doing. The first step is to create a new _pipeline_ which consists of a collection of _stages_ that you configure to get your app/site/whatever deployed, in my case I needed to:
 
@@ -39,7 +39,7 @@ Stage 1 is simple enough, using the Integrations I linked Codefresh to my Github
 
 You can then run the pipeline and using the handy debug option allows you to set a breakpoint and jump into the pipeline step, here's what that looks like for the clone stage
 
-![CF debug]({{ site.url }}assets/2-cf-debug.png)
+![CF debug](/assets/2-cf-debug.png)
 
 ## Stage 2: build
 
@@ -116,6 +116,6 @@ deploy:
 
 After much debugging and a couple of workarounds (changing directory / creating directories) with the above setup, I was able to achieve a green build.
 
- ![green build]({{ site.url }}assets/2-green-build.png)
+ ![green build](/assets/2-green-build.png)
 
 Incase it is useful, all of the source for this site can be found at [github.com/danielholden/blog](https://github.com/danielholden/blog)
