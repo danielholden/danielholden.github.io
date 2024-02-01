@@ -26,7 +26,7 @@ Setting up from start to finish took ~10 minutes, there is a need for an ID chec
 
 I opted for a free Revolut account and paid the €7.99 for the card, I don't really want a card, however I assume I will find myself needing it in places that Tap-and-Go is not supported.  I personally do not mind being charged for the card to be issued, this shows Revolut are tightly coupling the expense of card issuance back to the customers who opt for this.  This is the first time a bank has given me this option, both Up and ANZ Plus post a card out without asking if I want one.
 
-The card was ready to use well in advance of An Post delivering it to me of course, courtesey of Apple Pay....another nice touch.
+The card was ready to use well in advance of An Post delivering it to me of course, courtesy of Apple Pay....another nice touch.
 
 ## Joint account
 
@@ -48,10 +48,10 @@ Interestingly, I have encountered people who think Revolut is _only_ able to tra
 
 I did manage to convince a person selling a car that I could transfer the money via Revolut in front of him, rather than get a [Bank Draft](https://www.bankofireland.com/help-centre/faq/what-is-a-bank-draft) which is basically a bank cheque in Australia.  Not a form of payment I want to use for making a purchase as it would lock in the price upfront.
 
-# Critisism
+# Criticism
 
 I have heard some negatives about Revolut, one being `they aren't a bank` and another `they don't make any money`, the first is clearly not true...the latter appears to be somewhat accurate, Revolut are certainly not making the profits of other banks.  However, as a consumer, Revolut being growth focused does not concern me.  They are operating a European banking licence and they are growing, which tells me that my money is safe and I won't be needing to find a new bank anytime soon.
 
-Revolut is on the [hunt of mortage staff](https://www.independent.ie/business/technology/revolut-set-to-enter-mortgage-market-for-first-time/a1428974064.html) to launch that business, having done some brief research of Irish mortgages - this is certainly an area that a digital first experience will add a huge amount of value.
+Revolut is on the [hunt of mortgage staff](https://www.independent.ie/business/technology/revolut-set-to-enter-mortgage-market-for-first-time/a1428974064.html) to launch that business, having done some brief research of Irish mortgages - this is certainly an area that a digital first experience will add a huge amount of value.
 
 ![Revolut](/assets/4-revolut.png)
