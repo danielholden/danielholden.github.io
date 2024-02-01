@@ -52,6 +52,8 @@ I did manage to convince a person selling a car that I could transfer the money 
 
 I have heard some negatives about Revolut, one being `they aren't a bank` and another `they don't make any money`, the first is clearly not true...the latter appears to be somewhat accurate, Revolut are certainly not making the profits of other banks.  However, as a consumer, Revolut being growth focused does not concern me.  They are operating a European banking licence and they are growing, which tells me that my money is safe and I won't be needing to find a new bank anytime soon.
 
-Revolut is on the [hunt of mortgage staff](https://www.independent.ie/business/technology/revolut-set-to-enter-mortgage-market-for-first-time/a1428974064.html) to launch that business, having done some brief research of Irish mortgages - this is certainly an area that a digital first experience will add a huge amount of value.
+# Final thoughts
+
+The experience of their mobile app is world-class and Revolut is now on the [hunt of mortgage staff](https://www.independent.ie/business/technology/revolut-set-to-enter-mortgage-market-for-first-time/a1428974064.html) to launch that business, having done some brief research of Irish mortgages - this is certainly an area that a digital first experience will add a huge amount of value.
 
 ![Revolut](/assets/4-revolut.png)
