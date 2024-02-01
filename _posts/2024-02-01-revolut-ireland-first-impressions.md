@@ -18,7 +18,7 @@ In Australia, I found the following banks met the above requirements:
 - [Up Bank](https://up.com.au)
 - [ANZ Plus](https://anz.com.au/plus)
 
-I used Up as my daily bank (although they did not support joint accounts) and ANZ Plus as their interest rates on savings were pretty competative.
+I used Up as my daily bank (although they did not support joint accounts) and ANZ Plus as their interest rates on savings were pretty competitive.
 
 [Revolut](https://revolut.com) is popular in the UK and Ireland, so I thought I'd give them a go...
 
@@ -34,17 +34,17 @@ Repeating the above process for my partner and we were ready to setup a joint ac
 
 ## Pockets
 
-Another nice feature is the ability to "stash" money away into seperate accounts, this we found useful to hold money for the kids when people gave them cash for Christmas. 
+Another nice feature is the ability to "stash" money away into separate accounts, this we found useful to hold money for the kids when people gave them cash for Christmas. 
 
 # Day to day use
 
-I was not overly surprised by Revolut knocking it out of the park with their onboarding experience, I've heard good things and I've seen banks in Australia replicate this model well.. I'm still impressed to this day that I could receive API notifications via Up by connecting to the [Up API](https://api.up.com.au/getting_started), perhaps a gimmick, but one I appreciated.  What has surprised me about Revolut, their market penetration in Ireland is unbelivable, they have upwards of [2 million customers](https://www.irishtimes.com/business/2023/04/06/revolut-completes-rollout-of-irish-ibans-to-more-than-two-million-customers), which is approaching 50% of the adult population.  
+I was not overly surprised by Revolut knocking it out of the park with their onboarding experience, I've heard good things and I've seen banks in Australia replicate this model well.. I'm still impressed to this day that I could receive API notifications via Up by connecting to the [Up API](https://api.up.com.au/getting_started), perhaps a gimmick, but one I appreciated.  What has surprised me about Revolut, their market penetration in Ireland is unbelievable, they have upwards of [2 million customers](https://www.irishtimes.com/business/2023/04/06/revolut-completes-rollout-of-irish-ibans-to-more-than-two-million-customers), which is approaching 50% of the adult population.  
 
 ## Real time payments
 
-Revolut's sheer customer numbers has resulted in a network effect, where people in Ireland _think_ that Revolut is the only way to make a real time payment.  Being new to Ireland, I'm not sure of the infrasturcture behind bank to bank payments, but there does exist a real time bank to bank mecahnism called [SEPA Instant Credit Transfer](https://www.europeanpaymentscouncil.eu/what-we-do/sepa-instant-credit-transfer). However [not all European banks](https://www.ebaclearing.eu/services/rt1/participants) participate, one notable exception is Bank of Ireland, their customers numbers are not know but they do have a 21% market share in Ireland.  It's hard to blame people for opening a Revolut account so they can move money instantly, with such fragmented participation in the real time payment schemes in Europe, it's inevitable that people will latch on to the bank that offers the least friction in that area.
+Revolut's sheer customer numbers has resulted in a network effect, where people in Ireland _think_ that Revolut is the only way to make a real time payment.  Being new to Ireland, I'm not sure of the infrastructure behind bank to bank payments, but there does exist a real time bank to bank mechanism called [SEPA Instant Credit Transfer](https://www.europeanpaymentscouncil.eu/what-we-do/sepa-instant-credit-transfer). However [not all European banks](https://www.ebaclearing.eu/services/rt1/participants) participate, one notable exception is Bank of Ireland, their customers numbers are not know but they do have a 21% market share in Ireland.  It's hard to blame people for opening a Revolut account so they can move money instantly, with such fragmented participation in the real time payment schemes in Europe, it's inevitable that people will latch on to the bank that offers the least friction in that area.
 
-Interestingly, I have encountered people who think Revolut is _only_ able to tranfer money between Revolut accounts, this is not true as Revolut hold a full banking licence, albeit Revolut operate via their [European banking licence rather than their Irish e-money licence](https://www.irishtimes.com/business/2023/03/01/revolut-closes-two-irish-firms-after-dropping-e-money-licence-plan).
+Interestingly, I have encountered people who think Revolut is _only_ able to transfer money between Revolut accounts, this is not true as Revolut hold a full banking licence, albeit Revolut operate via their [European banking licence rather than their Irish e-money licence](https://www.irishtimes.com/business/2023/03/01/revolut-closes-two-irish-firms-after-dropping-e-money-licence-plan).
 
 I did manage to convince a person selling a car that I could transfer the money via Revolut in front of him, rather than get a [Bank Draft](https://www.bankofireland.com/help-centre/faq/what-is-a-bank-draft) which is basically a bank cheque in Australia.  Not a form of payment I want to use for making a purchase as it would lock in the price upfront.
 
