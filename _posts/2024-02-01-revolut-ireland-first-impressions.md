@@ -54,4 +54,4 @@ I have heard some negatives about Revolut, one being `they aren't a bank` and an
 
 Revolut is on the [hunt of mortage staff](https://www.independent.ie/business/technology/revolut-set-to-enter-mortgage-market-for-first-time/a1428974064.html) to launch that business, having done some brief research of Irish mortgages - this is certainly an area that a digital first experience will add a huge amount of value.
 
-![Revolut](../assets/4-revolut.png)
+![Revolut](/assets/4-revolut.png)
